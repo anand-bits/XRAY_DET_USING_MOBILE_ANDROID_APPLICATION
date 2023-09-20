@@ -16,8 +16,12 @@ This Android application utilizes a deep learning model for pneumonia detection.
 ## Demo
 
 !<img src="HOME_SCREENSHOT.png" alt="Demo Image" width="200" height="400">
-Screnshot of Homepage
+
+           Screnshot of Homepage
  <!-- Include a demo GIF or video showcasing your app in action -->
+
+ ## ML MODEL 
+ 
 
 ## Getting Started
 

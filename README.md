@@ -21,6 +21,9 @@ This Android application utilizes a deep learning model for pneumonia detection.
  <!-- Include a demo GIF or video showcasing your app in action -->
 
  ## ML MODEL 
+ !<img src="chest_prediction_accuracy.PNG" alt="Demo Image" width="200" height="200">
+           Accuracy Of ML Model
+ 
  
 
 ## Getting Started

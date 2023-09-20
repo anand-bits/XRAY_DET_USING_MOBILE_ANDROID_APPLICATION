@@ -15,7 +15,7 @@ This Android application utilizes a deep learning model for pneumonia detection.
 
 ## Demo
 
-![Demo Pic of Home page]()  <!-- Include a demo GIF or video showcasing your app in action -->
+![Demo Pic of Home page](HOME_SCREENSHOT.png)  <!-- Include a demo GIF or video showcasing your app in action -->
 
 ## Getting Started
 
